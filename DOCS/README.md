@@ -2,8 +2,8 @@
 #### 5 SISTEMAS OPERATIVOS MÁS USADOS
 ## Android
 _Android es un sistema operativo móvil desarrollado por Google, basado en núcleo Linux y otros software de código abierto. Fue diseñado para dispositivos móviles con pantalla táctil, como teléfonos inteligentes, tabletas, relojes inteligentes (Wear OS), automóviles (Android Auto) y televisores (Android TV)._
-![(https://es.wikipedia.org/wiki/Android)]
-(https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Android_robot_2014.svg/120px-Android_robot_2014.svg.png)
+(https://es.wikipedia.org/wiki/Android)
+![(https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Android_robot_2014.svg/120px-Android_robot_2014.svg.png)]
 ## Windows
 _Windows es el nombre de una familia de distribuciones de software para PC, teléfonos inteligentes, servidores y sistemas empotrados, desarrollados y vendidos por Microsoft y disponibles para múltiples arquitecturas, tales como x86, x86-64 y ARM._
 (https://es.wikipedia.org/wiki/Windows)
