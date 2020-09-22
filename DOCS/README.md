@@ -24,5 +24,6 @@ _Ubuntu es un sistema operativo de software libre y código abierto. Es una dist
 * Busca en wikipedia o cualquier otra web y resume en tres lineas lo que es GPL:
 >Es una licencia de derecho de autor ampliamente usada en el mundo del software libre y código abierto, garantiza a los usuarios finales la libertad de usar, estudiar, compartir y modificar el software. Su propósito es doble: declarar que el software es libre, y protegerlo de intentos de apropiación.
 *Explica brevemente la diferencia entre software libre y comercial.
-> Una las principales diferencias es que el software libre esta dado para todos los usuarios gratuitamente y posiblemente para los sistemas operativos,también los usuarios tienen la libertad de ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software en cambio con el software comercial se tiene que pagar por obtener el servicio.
+>Una las principales diferencias es que el software libre esta dado para todos los usuarios gratuitamente y posiblemente para los sistemas operativos,también los usuarios tienen la libertad de ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software en cambio con el software comercial se tiene que pagar por obtener el servicio.
+>
 *¿Qué es una distribución?. Nombra las distribuciones de linux mas usuales.
