@@ -21,5 +21,5 @@ _Ubuntu es un sistema operativo de software libre y código abierto. Es una dist
 (https://es.wikipedia.org/wiki/Ubuntu)
 (https://www.google.com/imgres?imgurl=https%3A%2F%2Flimemicro.com%2Fapp%2Fuploads%2F2019%2F01%2Fubuntu-logo-2.jpg&imgrefurl=https%3A%2F%2Flimemicro.com%2Fnews%2Fcanonical-launches-ubuntu-core-18-with-long-term-support-enhanced-security%2F&tbnid=Wq47emjrhhWOKM&vet=12ahUKEwjgwsDK-vzrAhVMexoKHdBrAqgQMygOegUIARDQAQ..i&docid=U9kaxwnBKxVqyM&w=1280&h=720&q=logo%20ubuntu&safe=strict&ved=2ahUKEwjgwsDK-vzrAhVMexoKHdBrAqgQMygOegUIARDQAQ)
 ### Investiga en internet
-* Busca en wikipedia o cualquier otra web y resume en tres lineas lo que es GPL
-Es una licencia de derecho de autor ampliamente usada en el mundo del software libre y código abierto, garantiza a los usuarios finales la libertad de usar, estudiar, compartir y modificar el software. Su propósito es doble: declarar que el software es libre, y protegerlo de intentos de apropiación.
+* Busca en wikipedia o cualquier otra web y resume en tres lineas lo que es GPL:
+>Es una licencia de derecho de autor ampliamente usada en el mundo del software libre y código abierto, garantiza a los usuarios finales la libertad de usar, estudiar, compartir y modificar el software. Su propósito es doble: declarar que el software es libre, y protegerlo de intentos de apropiación.
