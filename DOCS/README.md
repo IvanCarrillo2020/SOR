@@ -13,7 +13,7 @@ _iOS es un sistema operativo móvil de la multinacional Apple Inc. Originalmente
 (https://es.wikipedia.org/wiki/IOS)
 (https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/IOS_wordmark_%282017%29.svg/125px-IOS_wordmark_%282017%29.svg.png)
 ## Mac OS X
-_macOS es una serie de sistemas operativos gráficos desarrollados y comercializados por Apple desde 2001. Es el sistema operativo principal para la familia de computadoras Mac de Apple_
+_MacOS es una serie de sistemas operativos gráficos desarrollados y comercializados por Apple desde 2001. Es el sistema operativo principal para la familia de computadoras Mac de Apple_
 (https://es.wikipedia.org/wiki/MacOS)
 (https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjv4hrPjLh8nKKku2wzbE8wFnZl7p6_vr0tw&usqp=CAU)
 ## Ubuntu
@@ -28,3 +28,6 @@ _Ubuntu es un sistema operativo de software libre y código abierto. Es una dist
 >Una las principales diferencias es que el software libre esta dado para todos los usuarios gratuitamente y posiblemente para los sistemas operativos,también los usuarios tienen la libertad de ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software en cambio con el software comercial se tiene que pagar por obtener el servicio.
 >
 * ¿Qué es una distribución?. Nombra las distribuciones de linux mas usuales.
+>Es una distribución de software basada en el núcleo Linux que incluye determinados paquetes de software para satisfacer las necesidades de un grupo específico de usuarios, dando así origen a ediciones domésticas, empresariales y para servidores
+*Linux , Ubuntu , Debian son las distribuciones mas usuales
+>
