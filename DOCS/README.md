@@ -14,8 +14,8 @@ _iOS es un sistema operativo móvil de la multinacional Apple Inc. Originalmente
 !(https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/IOS_wordmark_%282017%29.svg/125px-IOS_wordmark_%282017%29.svg.png)
 ## Mac OS X
 _MacOS es una serie de sistemas operativos gráficos desarrollados y comercializados por Apple desde 2001. Es el sistema operativo principal para la familia de computadoras Mac de Apple_
-!(https://es.wikipedia.org/wiki/MacOS)
-(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjv4hrPjLh8nKKku2wzbE8wFnZl7p6_vr0tw&usqp=CAU)
+(https://es.wikipedia.org/wiki/MacOS)
+!(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjv4hrPjLh8nKKku2wzbE8wFnZl7p6_vr0tw&usqp=CAU)
 ## Ubuntu
 _Ubuntu es un sistema operativo de software libre y código abierto. Es una distribución de Linux basada en Debian. Actualmente corre en computadores de escritorio y servidores. Está orientado al usuario promedio, con un fuerte enfoque en la facilidad de uso y en mejorar la experiencia del usuario._
 (https://es.wikipedia.org/wiki/Ubuntu)
