@@ -24,7 +24,7 @@ _Ubuntu es un sistema operativo de software libre y código abierto. Es una dist
 >
 * ¿Qué es una distribución?. Nombra las distribuciones de linux mas usuales.
 >Es una distribución de software basada en el núcleo Linux que incluye determinados paquetes de software para satisfacer las necesidades de un grupo específico de usuarios, dando así origen a ediciones domésticas, empresariales y para servidores
-*Linux , Ubuntu , Debian son las distribuciones mas usuales
+Linux , Ubuntu , Debian son las distribuciones mas usuales
 >
 * Busca la última versión de los sistemas operativos nombrados en el apartado anterior y explica las característica de cada uno (fecha de lanzamiento, mejoras incorporadas, etc). En el caso de linux, centrate en Ubuntu.
 >En el caso de Ubuntu :La ultima versión estable de Ubuntu es la 20.04 LTS que fue lanzada el 23 de abril de 2020, su fecha de lanzamiento inicial fue el 20 de octubre de 2004. 
