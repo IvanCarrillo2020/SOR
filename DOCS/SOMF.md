@@ -27,13 +27,13 @@ _Ubuntu es un sistema operativo de software libre y código abierto. Es una dist
 *Linux , Ubuntu , Debian son las distribuciones mas usuales
 >
 * Busca la última versión de los sistemas operativos nombrados en el apartado anterior y explica las característica de cada uno (fecha de lanzamiento, mejoras incorporadas, etc). En el caso de linux, centrate en Ubuntu.
->En el caso de *Ubuntu* :La ultima versión estable de *Ubuntu es la 20.04 LTS* que fue lanzada el *23 de abril de 2020*, su fecha de lanzamiento inicial fue el *20 de octubre de 2004*. 
-En el caso de *Android* :La ultima versión estable de *Android* es *Android 11* que fue lanzada el 8 de septiembre de 2020, su fecha de lanzamiento inicial fue el *23 de septiembre de 2008*.
-En el caso de *Windows* :La ultima versión estable de *Windows* es *Windows 10,versión 2004* que fue lanzada el *27 de mayo de 2020*, su fecha de lanzamiento inicial fue el *20 de noviembre de 1985*.
-En el caso de *IOS* :La ultima versión estable de *IOS* es *IOS 14* que fue lanzada el 16 de septiembre de 2020*, su fecha de lanzamiento inicial fue el *29 de junio de 2007*.
-En el caso de *macOS* :La ultima versión estable de *macOS* es *macOS Catalina(10.15.6)* que fue lanzada el *10 de septiembre de 2020*, su fecha de lanzamiento inicial fue el *24 de marzo de 2001*.
+>En el caso de Ubuntu :La ultima versión estable de Ubuntu es la 20.04 LTS que fue lanzada el 23 de abril de 2020, su fecha de lanzamiento inicial fue el 20 de octubre de 2004. 
+En el caso de Android :La ultima versión estable de Android es Android 11 que fue lanzada el 8 de septiembre de 2020, su fecha de lanzamiento inicial fue el 23 de septiembre de 2008.
+En el caso de Windows :La ultima versión estable de Windows es Windows 10,versión 2004 que fue lanzada el 27 de mayo de 2020, su fecha de lanzamiento inicial fue el 20 de noviembre de 1985.
+En el caso de IOS :La ultima versión estable de IOS es IOS 14 que fue lanzada el 16 de septiembre de 2020, su fecha de lanzamiento inicial fue el 29 de junio de 2007.
+En el caso de macOS :La ultima versión estable de macOS es macOS Catalina(10.15.6) que fue lanzada el 10 de septiembre de 2020, su fecha de lanzamiento inicial fue el 24 de marzo de 2001.
 >
 * ¿Qué es Unix, en que se diferencian Unix y Linux.
->*Linux* es un clon del sistema Unix original, aunque no contiene su código. Linux es solo el núcleo (kernel) del sistema, mientras que Unix es un sistema operativo completo. Linux fue desarrollado para ser ejecutado en PCs, mientras que Unix fue desarrollo principalmente para grandes estaciones de trabajo y servidores.
+>Linux es un clon del sistema Unix original, aunque no contiene su código. Linux es solo el núcleo (kernel) del sistema, mientras que Unix es un sistema operativo completo. Linux fue desarrollado para ser ejecutado en PCs, mientras que Unix fue desarrollo principalmente para grandes estaciones de trabajo y servidores.
 >
 
